@@ -1,4 +1,4 @@
-# こにし — ポートフォリオ
+# ポートフォリオ
 
 個人ポートフォリオサイトです。アプリケーションエンジニアとしての経歴・スキル・制作物をまとめています。
 
@@ -18,3 +18,7 @@ https://xiaosenai8.github.io/portfolio/
 |---|---|---|
 | `sheep.jpeg` | アイコン画像 | [ゆるゆる動物イラストセット](https://tegakisozai.com/archives/26750) |
 | `coffee.webp` | コーヒーの画像 | [ぱくたそ](https://www.pakutaso.com/) |
+
+## 開発補助
+
+🤖 Built with [Claude Code](https://claude.com/claude-code)
